@@ -1,0 +1,11 @@
+{
+  "name": "cie10bot",
+  "version": "1.0.0",
+  "description": "bot de busqueda de codigos cie10",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ae",
+  "license": "MIT"
+}
